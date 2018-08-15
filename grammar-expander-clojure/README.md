@@ -1,14 +1,12 @@
 # grammar-expander
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure reference implementation for the Grammar Dojo at U of M Morris.
 
 ## Usage
 
-FIXME
-
+Takes a single argument, the path to a json file containing a grammar, and returns an expansion of that grammar.
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 U of M Morris C-Sci Club
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License version 1.0
