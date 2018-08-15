@@ -1,0 +1,32 @@
+{
+  "emotion": [
+    "sad",
+    "morose",
+    "happy",
+    "joyful",
+    "exuberant"
+  ],
+  "startpoint": [
+    "#person# felt very #emotion#.",
+    "It was a #emotion# day for #name#.",
+    "All #emotion# #proffesion#s know #name#'s Bar."
+  ],
+  "person": [
+    "#name# the #proffesion#",
+    "a #proffesion#  named #name#",
+    "#name#"
+  ],
+  "proffesion": [
+    "lawyer",
+    "bricklayer",
+    "mime",
+    "custodian",
+    "newscaster"
+  ],
+  "name": [
+    "Jane",
+    "Sparrow",
+    "Graciela",
+    "Ignatz"
+  ]
+}
